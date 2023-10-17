@@ -1,0 +1,58 @@
+body {
+    background-color:rgba(11, 115, 175, 0.21);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: #108ec8;
+    color:white;
+    text-align: center;
+    padding: 20px;
+}
+
+table {
+    width: 99%;
+    background-color: rgba(11, 115, 175, 0.21);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+}
+
+tr {
+    text-align: center;
+}
+
+td {
+    width: 33%;
+    text-align: center;
+}
+
+#left-side {
+    background-color: #003147;
+}
+
+#right-side {
+    background-color: lightskyblue;
+}
+
+#center {
+    background-color: #003147;
+}
+
+#social-media{
+    display: inline;
+}
+
+#alamat{
+    border: 1px solid ;
+    padding: 30px;
+    margin: 30px;
+}
