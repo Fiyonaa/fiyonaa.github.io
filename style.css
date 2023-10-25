@@ -30,6 +30,7 @@ nav ul li a{
     height: 70px;
     line-height: 70px;
     padding: 0 25px;
+    list-style: none;
 }
 
 nav ul li a:hover{
